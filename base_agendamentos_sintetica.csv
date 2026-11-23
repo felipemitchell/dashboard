@@ -1,0 +1,241 @@
+﻿id_agendamento,data,especialidade,unidade,status
+AG0001,2026-09-26,Ortopedia,Unidade Sul,Concluído
+AG0002,2026-09-08,Clínica geral,Unidade Norte,Pendente
+AG0003,2026-09-06,Ortopedia,Unidade Centro,Concluído
+AG0004,2026-11-21,Cardiologia,Unidade Sul,Confirmado
+AG0005,2026-10-23,Ortopedia,Unidade Sul,Confirmado
+AG0006,2026-09-04,Ortopedia,Unidade Centro,Cancelado
+AG0007,2026-09-17,Clínica geral,Unidade Norte,Concluído
+AG0008,2026-10-17,Clínica geral,Unidade Centro,Concluído
+AG0009,2026-10-08,Pediatria,Unidade Sul,Concluído
+AG0010,2026-09-06,Ortopedia,Unidade Sul,Concluído
+AG0011,2026-11-11,Clínica geral,Unidade Sul,Confirmado
+AG0012,2026-10-25,Cardiologia,Unidade Centro,Concluído
+AG0013,2026-10-03,Clínica geral,Unidade Norte,Concluído
+AG0014,2026-11-17,Dermatologia,Unidade Centro,Confirmado
+AG0015,2026-09-17,Dermatologia,Unidade Centro,Cancelado
+AG0016,2026-09-07,Cardiologia,Unidade Centro,Concluído
+AG0017,2026-11-09,Cardiologia,Unidade Centro,Concluído
+AG0018,2026-10-24,Ortopedia,Unidade Centro,Concluído
+AG0019,2026-10-16,Clínica geral,Unidade Centro,Confirmado
+AG0020,2026-09-18,Ortopedia,Unidade Sul,Confirmado
+AG0021,2026-11-27,Ortopedia,Unidade Norte,Concluído
+AG0022,2026-11-17,Cardiologia,Unidade Centro,Confirmado
+AG0023,2026-09-20,Dermatologia,Unidade Sul,Concluído
+AG0024,2026-11-28,Cardiologia,Unidade Sul,Concluído
+AG0025,2026-09-05,Ortopedia,Unidade Centro,Cancelado
+AG0026,2026-10-08,Ginecologia,Unidade Norte,Confirmado
+AG0027,2026-09-22,Pediatria,Unidade Centro,Confirmado
+AG0028,2026-09-03,Pediatria,Unidade Sul,Pendente
+AG0029,2026-09-03,Pediatria,Unidade Norte,Confirmado
+AG0030,2026-11-23,Ortopedia,Unidade Centro,Cancelado
+AG0031,2026-09-13,Clínica geral,Unidade Centro,Confirmado
+AG0032,2026-10-10,Clínica geral,Unidade Sul,Cancelado
+AG0033,2026-10-20,Cardiologia,Unidade Sul,Cancelado
+AG0034,2026-09-11,Dermatologia,Unidade Sul,Concluído
+AG0035,2026-09-20,Ginecologia,Unidade Centro,Confirmado
+AG0036,2026-10-21,Clínica geral,Unidade Norte,Confirmado
+AG0037,2026-10-12,Cardiologia,Unidade Norte,Confirmado
+AG0038,2026-10-01,Clínica geral,Unidade Sul,Pendente
+AG0039,2026-09-13,Clínica geral,Unidade Centro,Confirmado
+AG0040,2026-09-19,Dermatologia,Unidade Sul,Confirmado
+AG0041,2026-11-27,Ortopedia,Unidade Centro,Confirmado
+AG0042,2026-11-07,Ginecologia,Unidade Norte,Confirmado
+AG0043,2026-11-08,Clínica geral,Unidade Centro,Cancelado
+AG0044,2026-10-14,Clínica geral,Unidade Centro,Confirmado
+AG0045,2026-10-09,Clínica geral,Unidade Sul,Confirmado
+AG0046,2026-10-27,Pediatria,Unidade Norte,Cancelado
+AG0047,2026-10-03,Pediatria,Unidade Sul,Cancelado
+AG0048,2026-10-08,Ginecologia,Unidade Norte,Concluído
+AG0049,2026-09-07,Pediatria,Unidade Centro,Concluído
+AG0050,2026-09-07,Ginecologia,Unidade Centro,Cancelado
+AG0051,2026-11-16,Clínica geral,Unidade Sul,Pendente
+AG0052,2026-10-03,Dermatologia,Unidade Sul,Concluído
+AG0053,2026-09-04,Dermatologia,Unidade Centro,Concluído
+AG0054,2026-10-30,Clínica geral,Unidade Sul,Cancelado
+AG0055,2026-09-13,Pediatria,Unidade Sul,Cancelado
+AG0056,2026-11-27,Ginecologia,Unidade Centro,Cancelado
+AG0057,2026-09-18,Cardiologia,Unidade Sul,Concluído
+AG0058,2026-09-11,Pediatria,Unidade Centro,Concluído
+AG0059,2026-11-01,Cardiologia,Unidade Sul,Pendente
+AG0060,2026-09-25,Pediatria,Unidade Sul,Confirmado
+AG0061,2026-10-04,Ortopedia,Unidade Norte,Concluído
+AG0062,2026-11-23,Clínica geral,Unidade Centro,Cancelado
+AG0063,2026-10-05,Clínica geral,Unidade Sul,Confirmado
+AG0064,2026-09-29,Ginecologia,Unidade Norte,Concluído
+AG0065,2026-09-18,Pediatria,Unidade Sul,Pendente
+AG0066,2026-11-19,Cardiologia,Unidade Norte,Concluído
+AG0067,2026-09-29,Ortopedia,Unidade Norte,Concluído
+AG0068,2026-11-01,Clínica geral,Unidade Centro,Confirmado
+AG0069,2026-11-16,Clínica geral,Unidade Sul,Cancelado
+AG0070,2026-09-25,Pediatria,Unidade Sul,Confirmado
+AG0071,2026-11-22,Clínica geral,Unidade Centro,Concluído
+AG0072,2026-09-23,Pediatria,Unidade Norte,Concluído
+AG0073,2026-10-25,Dermatologia,Unidade Sul,Confirmado
+AG0074,2026-09-13,Ginecologia,Unidade Centro,Concluído
+AG0075,2026-11-10,Cardiologia,Unidade Centro,Concluído
+AG0076,2026-10-28,Ginecologia,Unidade Centro,Concluído
+AG0077,2026-10-09,Clínica geral,Unidade Sul,Concluído
+AG0078,2026-10-17,Ortopedia,Unidade Norte,Concluído
+AG0079,2026-11-13,Cardiologia,Unidade Sul,Concluído
+AG0080,2026-11-25,Clínica geral,Unidade Sul,Concluído
+AG0081,2026-10-24,Ortopedia,Unidade Centro,Cancelado
+AG0082,2026-10-17,Clínica geral,Unidade Norte,Pendente
+AG0083,2026-10-01,Dermatologia,Unidade Sul,Concluído
+AG0084,2026-11-15,Dermatologia,Unidade Centro,Concluído
+AG0085,2026-09-19,Ortopedia,Unidade Sul,Confirmado
+AG0086,2026-11-30,Pediatria,Unidade Centro,Concluído
+AG0087,2026-09-19,Dermatologia,Unidade Norte,Confirmado
+AG0088,2026-10-21,Clínica geral,Unidade Norte,Concluído
+AG0089,2026-11-15,Clínica geral,Unidade Sul,Concluído
+AG0090,2026-09-27,Clínica geral,Unidade Sul,Confirmado
+AG0091,2026-10-02,Clínica geral,Unidade Sul,Confirmado
+AG0092,2026-09-04,Pediatria,Unidade Sul,Concluído
+AG0093,2026-09-14,Clínica geral,Unidade Norte,Concluído
+AG0094,2026-11-22,Cardiologia,Unidade Norte,Confirmado
+AG0095,2026-10-11,Cardiologia,Unidade Norte,Pendente
+AG0096,2026-10-07,Clínica geral,Unidade Sul,Cancelado
+AG0097,2026-11-08,Clínica geral,Unidade Norte,Concluído
+AG0098,2026-11-02,Cardiologia,Unidade Sul,Confirmado
+AG0099,2026-09-08,Ginecologia,Unidade Sul,Concluído
+AG0100,2026-10-04,Pediatria,Unidade Sul,Confirmado
+AG0101,2026-10-01,Dermatologia,Unidade Centro,Concluído
+AG0102,2026-09-09,Clínica geral,Unidade Centro,Concluído
+AG0103,2026-09-25,Cardiologia,Unidade Sul,Cancelado
+AG0104,2026-11-29,Dermatologia,Unidade Centro,Cancelado
+AG0105,2026-11-05,Clínica geral,Unidade Sul,Cancelado
+AG0106,2026-11-25,Pediatria,Unidade Centro,Concluído
+AG0107,2026-11-09,Clínica geral,Unidade Norte,Concluído
+AG0108,2026-09-25,Cardiologia,Unidade Norte,Concluído
+AG0109,2026-09-07,Ginecologia,Unidade Norte,Confirmado
+AG0110,2026-10-16,Dermatologia,Unidade Sul,Confirmado
+AG0111,2026-09-01,Clínica geral,Unidade Norte,Concluído
+AG0112,2026-09-16,Clínica geral,Unidade Norte,Pendente
+AG0113,2026-10-09,Cardiologia,Unidade Norte,Pendente
+AG0114,2026-10-13,Clínica geral,Unidade Norte,Concluído
+AG0115,2026-10-05,Ginecologia,Unidade Sul,Concluído
+AG0116,2026-10-15,Clínica geral,Unidade Norte,Confirmado
+AG0117,2026-09-08,Clínica geral,Unidade Norte,Confirmado
+AG0118,2026-10-01,Dermatologia,Unidade Norte,Confirmado
+AG0119,2026-09-10,Ginecologia,Unidade Sul,Confirmado
+AG0120,2026-11-05,Dermatologia,Unidade Norte,Confirmado
+AG0121,2026-10-31,Clínica geral,Unidade Sul,Cancelado
+AG0122,2026-09-22,Pediatria,Unidade Centro,Confirmado
+AG0123,2026-09-04,Clínica geral,Unidade Sul,Confirmado
+AG0124,2026-09-20,Dermatologia,Unidade Norte,Concluído
+AG0125,2026-09-03,Pediatria,Unidade Centro,Concluído
+AG0126,2026-11-07,Clínica geral,Unidade Sul,Concluído
+AG0127,2026-09-29,Clínica geral,Unidade Norte,Confirmado
+AG0128,2026-09-24,Clínica geral,Unidade Centro,Concluído
+AG0129,2026-11-26,Ortopedia,Unidade Centro,Concluído
+AG0130,2026-09-08,Ortopedia,Unidade Norte,Concluído
+AG0131,2026-11-15,Pediatria,Unidade Norte,Confirmado
+AG0132,2026-11-14,Clínica geral,Unidade Norte,Concluído
+AG0133,2026-11-08,Ginecologia,Unidade Norte,Concluído
+AG0134,2026-10-31,Cardiologia,Unidade Centro,Confirmado
+AG0135,2026-09-15,Ortopedia,Unidade Norte,Confirmado
+AG0136,2026-11-14,Dermatologia,Unidade Centro,Confirmado
+AG0137,2026-09-17,Clínica geral,Unidade Sul,Concluído
+AG0138,2026-11-05,Clínica geral,Unidade Sul,Concluído
+AG0139,2026-11-22,Dermatologia,Unidade Sul,Confirmado
+AG0140,2026-09-19,Ortopedia,Unidade Sul,Concluído
+AG0141,2026-11-18,Clínica geral,Unidade Sul,Cancelado
+AG0142,2026-09-19,Ginecologia,Unidade Sul,Concluído
+AG0143,2026-11-25,Pediatria,Unidade Norte,Pendente
+AG0144,2026-09-26,Pediatria,Unidade Centro,Cancelado
+AG0145,2026-10-20,Cardiologia,Unidade Norte,Concluído
+AG0146,2026-09-09,Ortopedia,Unidade Sul,Concluído
+AG0147,2026-09-10,Clínica geral,Unidade Sul,Concluído
+AG0148,2026-11-22,Pediatria,Unidade Sul,Confirmado
+AG0149,2026-09-06,Dermatologia,Unidade Norte,Confirmado
+AG0150,2026-09-29,Cardiologia,Unidade Sul,Cancelado
+AG0151,2026-09-24,Clínica geral,Unidade Centro,Concluído
+AG0152,2026-11-15,Cardiologia,Unidade Norte,Pendente
+AG0153,2026-10-06,Ortopedia,Unidade Norte,Confirmado
+AG0154,2026-10-09,Dermatologia,Unidade Centro,Cancelado
+AG0155,2026-10-10,Cardiologia,Unidade Centro,Cancelado
+AG0156,2026-09-12,Dermatologia,Unidade Sul,Confirmado
+AG0157,2026-11-18,Ortopedia,Unidade Sul,Concluído
+AG0158,2026-10-18,Ortopedia,Unidade Sul,Concluído
+AG0159,2026-10-01,Clínica geral,Unidade Sul,Confirmado
+AG0160,2026-11-20,Pediatria,Unidade Centro,Confirmado
+AG0161,2026-09-07,Cardiologia,Unidade Sul,Concluído
+AG0162,2026-11-11,Ortopedia,Unidade Norte,Pendente
+AG0163,2026-11-01,Pediatria,Unidade Norte,Concluído
+AG0164,2026-11-01,Clínica geral,Unidade Norte,Pendente
+AG0165,2026-11-29,Clínica geral,Unidade Norte,Pendente
+AG0166,2026-11-08,Clínica geral,Unidade Sul,Pendente
+AG0167,2026-11-26,Ortopedia,Unidade Centro,Concluído
+AG0168,2026-09-26,Pediatria,Unidade Centro,Confirmado
+AG0169,2026-09-17,Pediatria,Unidade Norte,Cancelado
+AG0170,2026-11-09,Cardiologia,Unidade Sul,Concluído
+AG0171,2026-10-26,Clínica geral,Unidade Sul,Concluído
+AG0172,2026-11-07,Pediatria,Unidade Centro,Concluído
+AG0173,2026-09-22,Dermatologia,Unidade Sul,Confirmado
+AG0174,2026-11-14,Ortopedia,Unidade Norte,Confirmado
+AG0175,2026-10-23,Ginecologia,Unidade Centro,Confirmado
+AG0176,2026-11-25,Cardiologia,Unidade Norte,Pendente
+AG0177,2026-11-19,Pediatria,Unidade Centro,Concluído
+AG0178,2026-10-09,Clínica geral,Unidade Sul,Cancelado
+AG0179,2026-10-30,Clínica geral,Unidade Sul,Concluído
+AG0180,2026-10-26,Clínica geral,Unidade Sul,Pendente
+AG0181,2026-10-10,Clínica geral,Unidade Centro,Confirmado
+AG0182,2026-10-19,Pediatria,Unidade Norte,Cancelado
+AG0183,2026-10-15,Ortopedia,Unidade Norte,Confirmado
+AG0184,2026-11-17,Clínica geral,Unidade Norte,Concluído
+AG0185,2026-11-17,Ginecologia,Unidade Centro,Confirmado
+AG0186,2026-10-15,Clínica geral,Unidade Centro,Cancelado
+AG0187,2026-10-21,Cardiologia,Unidade Norte,Confirmado
+AG0188,2026-10-03,Cardiologia,Unidade Norte,Concluído
+AG0189,2026-10-12,Clínica geral,Unidade Norte,Concluído
+AG0190,2026-11-09,Ortopedia,Unidade Norte,Pendente
+AG0191,2026-09-27,Dermatologia,Unidade Sul,Confirmado
+AG0192,2026-11-13,Clínica geral,Unidade Norte,Concluído
+AG0193,2026-09-26,Cardiologia,Unidade Sul,Cancelado
+AG0194,2026-11-06,Ginecologia,Unidade Norte,Cancelado
+AG0195,2026-11-19,Clínica geral,Unidade Sul,Pendente
+AG0196,2026-10-22,Pediatria,Unidade Sul,Concluído
+AG0197,2026-10-08,Pediatria,Unidade Norte,Concluído
+AG0198,2026-09-23,Cardiologia,Unidade Centro,Concluído
+AG0199,2026-09-27,Clínica geral,Unidade Sul,Confirmado
+AG0200,2026-11-19,Clínica geral,Unidade Norte,Cancelado
+AG0201,2026-11-18,Clínica geral,Unidade Norte,Cancelado
+AG0202,2026-10-27,Cardiologia,Unidade Norte,Confirmado
+AG0203,2026-10-12,Clínica geral,Unidade Sul,Concluído
+AG0204,2026-11-19,Pediatria,Unidade Sul,Confirmado
+AG0205,2026-11-07,Cardiologia,Unidade Norte,Confirmado
+AG0206,2026-09-12,Dermatologia,Unidade Sul,Cancelado
+AG0207,2026-10-27,Ortopedia,Unidade Norte,Cancelado
+AG0208,2026-11-30,Clínica geral,Unidade Centro,Cancelado
+AG0209,2026-10-28,Ortopedia,Unidade Sul,Concluído
+AG0210,2026-10-19,Pediatria,Unidade Norte,Cancelado
+AG0211,2026-09-09,Ortopedia,Unidade Sul,Concluído
+AG0212,2026-11-10,Ortopedia,Unidade Sul,Confirmado
+AG0213,2026-10-30,Ginecologia,Unidade Sul,Concluído
+AG0214,2026-11-12,Clínica geral,Unidade Centro,Cancelado
+AG0215,2026-11-23,Dermatologia,Unidade Sul,Cancelado
+AG0216,2026-10-04,Cardiologia,Unidade Norte,Confirmado
+AG0217,2026-11-17,Ortopedia,Unidade Sul,Pendente
+AG0218,2026-11-10,Clínica geral,Unidade Centro,Confirmado
+AG0219,2026-11-09,Dermatologia,Unidade Sul,Confirmado
+AG0220,2026-11-06,Clínica geral,Unidade Norte,Confirmado
+AG0221,2026-09-04,Dermatologia,Unidade Sul,Confirmado
+AG0222,2026-10-22,Ginecologia,Unidade Centro,Pendente
+AG0223,2026-09-19,Clínica geral,Unidade Sul,Confirmado
+AG0224,2026-11-22,Clínica geral,Unidade Centro,Concluído
+AG0225,2026-09-01,Clínica geral,Unidade Norte,Cancelado
+AG0226,2026-09-21,Dermatologia,Unidade Sul,Pendente
+AG0227,2026-11-21,Cardiologia,Unidade Sul,Concluído
+AG0228,2026-10-09,Clínica geral,Unidade Centro,Confirmado
+AG0229,2026-09-17,Clínica geral,Unidade Norte,Pendente
+AG0230,2026-10-31,Pediatria,Unidade Norte,Concluído
+AG0231,2026-10-20,Clínica geral,Unidade Sul,Concluído
+AG0232,2026-10-27,Pediatria,Unidade Sul,Confirmado
+AG0233,2026-10-31,Clínica geral,Unidade Centro,Cancelado
+AG0234,2026-11-16,Clínica geral,Unidade Centro,Concluído
+AG0235,2026-11-08,Cardiologia,Unidade Sul,Concluído
+AG0236,2026-11-13,Ginecologia,Unidade Centro,Cancelado
+AG0237,2026-09-08,Dermatologia,Unidade Centro,Concluído
+AG0238,2026-11-13,Clínica geral,Unidade Norte,Confirmado
+AG0239,2026-10-16,Ginecologia,Unidade Sul,Confirmado
+AG0240,2026-09-19,Cardiologia,Unidade Norte,Cancelado
